@@ -28,11 +28,15 @@ li {
   text-decoration: none;
 }
 
-a:hover {
+a{
   text-decoration: none;
   color: #FDF8F5;
+  
 }
 
+a:hover{
+  color:yellow;
+}
 header,
 footer {
   height: 60px;
@@ -44,6 +48,7 @@ footer {
 header {
   position: fixed;
   border-bottom: 10px solid #DDAF94;
+  text-decoration:white ;
 }
 
 footer {
