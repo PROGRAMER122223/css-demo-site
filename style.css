@@ -28,7 +28,7 @@ li {
   text-decoration: none;
 }
 
-a {
+a:hover {
   text-decoration: none;
   color: #FDF8F5;
 }
